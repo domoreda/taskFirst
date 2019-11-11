@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 @SpringBootApplication
-public class SpringbootHelloWorldApplication {
+public class  SpringbootHelloWorldApplication {
 
 	public static void main(String[] args) {
 
